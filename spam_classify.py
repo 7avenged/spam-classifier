@@ -1,5 +1,5 @@
 import os	#created and improvised by Aditya Mohan #7avenged
-import io
+import io   #THIS IS JUST ONE WAY TO LOAD FILES IN VARIABLE FOR TRAINING, MANY OTHER WAYS ARE ALSO POSSIBLE
 import numpy                                 
 from pandas import DataFrame
 from sklearn.feature_extraction.text import CountVectorizer
